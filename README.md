@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-My name is Stephen and I've been in Help Desk, now Professional Services(fancy title for projects), and I'm trying to transition to using more cloud technologies.
+My name is Stephen and I've been in Help Desk, now Professional Services(fancy title for projects), for over 4 years and I'm trying to transition to using more cloud technologies.
 
 - I’m currently working on learning Bash, Markdown, Git, Github (*it's not easy for me*), Azure (**I have *some* experience), Linux\*, and Python!
 - I’m looking to collaborate on anyting really. I'm willing to learn.
