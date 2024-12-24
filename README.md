@@ -6,12 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="![alt text](c2wuy2l3o5f31.webp)">
- <source media="(prefers-color-scheme: light)" srcset="![alt text](istockphoto-1441638637-612x612.jpg)">
- <img src="![alt text](istockphoto-1288419797-612x612.jpg)">
-</picture>
-
 - I’m currently working on learning Bash, Markdown, Git, Github (*it's not easy for me*), Azure (**I have *some* experience), Linux\*, and Python!
 - I’m looking to collaborate on anyting really. I'm willing to learn.
 - I’m looking for help with coding. It's something I've wanted to do and haven't pushed myself enough to learn in the last 20 years
